@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(imagens/chainsaw.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(imagens/background-principal.jpg);
     background-size: cover;
     background-attachment: fixed;
 
@@ -55,17 +55,4 @@ body {
     margin: 10px auto;
     font-weight: 100;
     line-height: 25px;
-}
-
-button {
-    width: 200px;
-    padding: 15px 0;
-    text-align: center;
-    margin: 20px 10px;
-    border-radius: 25px;
-    font-weight: bold;
-    border: 2px solid #ca9c96;
-    background: transparent;
-    color: #fff;
-    cursor: pointer;
 }
